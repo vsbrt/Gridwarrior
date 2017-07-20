@@ -39,4 +39,4 @@ My basic aim was to create a line folloIr autonomous robot which would complete 
 ## PROGRAMMING:
 >I programmed my microcontroller using CodeVision AVR, an embedded C Software, in which I wrote my line following program in the C language. I converted the sensor inputs using the ADC functionality of Atmega 16 (PORT A) and used different ranges for different colmys. The timers adjusted the speeds of the motors to follow the lines accordingly. I used PORT C for LCD display, and PORT D and PORT B for outputs to L293 for motor driving, and LED glowing. I converted my C program into a .hex file for the microcontroller using the software AVR Studio.
 
-###### visit my link https://drive.google.com/file/d/0BwMIqZElmoG-SmppUVBtOUVsY0E/view?usp=sharing for the video fo robot
+###### visit my link https://drive.google.com/file/d/0BwMIqZElmoG-SmppUVBtOUVsY0E/view?usp=sharing for the working demo of robot
