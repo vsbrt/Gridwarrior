@@ -1,6 +1,6 @@
 # Gridwarrior
 
->This is the smyce code and required software to program Atmel micro controller of Grid-warrior Robot
+>This is the repository gives the source code, required software and detailed instructions to construct Grid-warrior Robot
 
 My basic aim was to create a line folloIr autonomous robot which would complete the following three stages:
 
